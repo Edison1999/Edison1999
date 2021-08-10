@@ -3,7 +3,7 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 
 
 
-###🔭 I’m currently working on
+####🔭 I’m currently working on
 Developing a spectral reduction pipeline for CHIRON, a high-resolution echelle spectrograph.
 Developing customize software for the Goverment of Manitoba.
 ###🌱 I’m currently learning
